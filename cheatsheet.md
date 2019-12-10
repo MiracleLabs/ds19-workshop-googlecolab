@@ -1,6 +1,6 @@
 ﻿# DS19 Workshop | Building a Car Damage Classification model using Google Colab
 
-The below markdown file consists of commands and code snippets that will help you complete the lab - Building a Car Damage Classification model using Google Colab
+The below markdown file consists of commands and notes that will help you to complete and understand the lab - Building a Car Damage Classification model using Google Colab
 
 ## Code Snippets
 
