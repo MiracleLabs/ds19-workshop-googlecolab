@@ -6,7 +6,7 @@ The below markdown file consists of commands and notes that will help you to com
 
 #### Cloning the Github repository
 ```
-!git clone https://github.com/ammu11/DS19-DamageCarClassification
+git clone https://github.com/ammu11/DS19-DamageCarClassification
 ```
  #### Import required libraries
 ```
